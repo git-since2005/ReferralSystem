@@ -1,5 +1,6 @@
 fastapi
 uvicorn
+setuptools
 motor
 bcrypt
 pyjwt
@@ -7,4 +8,3 @@ python-dotenv
 email
 os
 uuid
-setuptools
