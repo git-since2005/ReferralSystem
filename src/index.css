@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+input[type="number"]{
+    -moz-appearance: none;
+}
+
+th{
+    color: white;
+}
+tr, th, td{
+    border: 1px solid white;
+}
