@@ -33,7 +33,7 @@ FRONTEND_URL = os.getenv("frontend")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # Allows all origins (⚠️ Not safe for production)
+    allow_origins=["https://referral-assessment.netlify.app"],
     allow_credentials=True,
     allow_methods=["*"],  # Allows all HTTP methods
     allow_headers=["*"],  # Allows all headers
