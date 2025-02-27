@@ -6,5 +6,4 @@ motor
 bcrypt
 pyjwt
 python-dotenv
-os
 uuid
