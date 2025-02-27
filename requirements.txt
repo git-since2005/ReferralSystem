@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+motor
+bcrypt
+pyjwt
+python-dotenv
+smtplib
+email
+os
+uuid
