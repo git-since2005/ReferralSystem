@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-setuptools
+setuptools>=65.5.0
+wheel>=0.38.4
 motor
 bcrypt
 pyjwt
